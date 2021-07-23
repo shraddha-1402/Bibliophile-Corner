@@ -1,6 +1,6 @@
 import { useState } from "react";
 import './App.css';
-import headerImg from "./undraw_Bibliophile_hwqc.svg";
+import headerImg from "./header-image.svg";
 import { data } from "./data.js";
 
 function App() {
