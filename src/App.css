@@ -1,0 +1,132 @@
+.App{
+  --primary-color: #1b1b69;
+  --secondary-color: #fbddbb;
+  color: var(--primary-color);
+}
+
+.nav-bar{
+  background-color: var(--secondary-color);
+  text-align: center;
+  font-size: 6vmin;
+  padding: 1rem 0;
+  border-bottom-left-radius: 3rem;
+}
+
+.nav-bar h1{
+  margin: 0;
+}
+
+.container{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  align-items: flex-start;
+}
+
+.header-image{
+  max-width: 80vmin;
+  margin: 1rem;
+  margin-top: 10vmin;
+}
+
+.header-content{
+  padding: 1rem;
+}
+
+.search-options{
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.search-button{
+  margin: 1rem 0rem 1rem 1rem;
+  background-color: var(--secondary-color);
+  border-radius: 0.5rem;
+  border: 2px solid var(--secondary-color);
+  box-shadow: rgba(14, 38, 37, 0.12) 0px 1px 2px 0px,
+  rgba(14, 38, 37, 0.32) 0px 2px 4px 1px;
+  padding: 0.5rem;
+  font-size: medium;
+  font-weight: bolder;
+  width: 100%;
+  cursor: pointer;
+}
+
+.search-button:first-child{
+  margin-left: 0;
+}
+
+.search-button:focus, .search-button:hover{
+  border: 2px solid var(--primary-color);
+}
+
+.search-results{
+  padding: 1rem 0;
+  height: 70vh;
+  overflow-y: scroll;
+}
+
+.search-results::-webkit-scrollbar{
+	width: 0px;
+}
+
+.card{
+  border-radius: 1rem;
+  width: 80vmin;
+  border: 3px solid var(--primary-color);
+  margin-bottom: 1rem;
+  padding: 0.5rem;
+  display: flex;
+  justify-content: space-between;
+}
+
+.card-image-container{
+  width: 30%;
+  display: flex;
+  align-items: center;
+}
+
+.card-image{
+  width: 100%;
+  border-radius: 0.5rem;
+}
+
+.card-detail{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 66%;
+}
+
+.card-title{
+  margin: 0;
+  font-size: 5vmin;
+}
+
+.card-paragraph, .card-rating{
+  margin: 0;
+  margin-top: 2vmin;
+}
+
+@media(max-width: 400px){
+  .card-paragraph{
+    font-size: 14px;
+  }
+}
+
+.link{
+  text-decoration: none;
+  margin: 0 1rem;
+  font-size: 1.5rem;
+  color: var(--primary-color);
+}
+
+footer{
+  background-color: var(--secondary-color);
+  padding: 1rem;
+  text-align: center;
+}
+
+footer h3{
+  margin-top: 0;
+}
