@@ -26,6 +26,9 @@
 .header-conatiner{
   padding-top: 1rem;
   max-width: 80vmin;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 .header-heading{
