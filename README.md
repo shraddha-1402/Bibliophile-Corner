@@ -2,7 +2,7 @@
 
 **A books suggestion app according to three different genres for all the Bibliophiles out there!**
 
-**Head to [Bibliophile's Corner](https://bibliophils-corner.netlify.app/) to choose the book you wanna read next or start your reading journey with!**
+**Head to [Bibliophile's Corner](https://bibliophiles-corner.netlify.app/) to choose the book you wanna read next or start your reading journey with!**
 
 HAPPY READING❤️❤️
 
