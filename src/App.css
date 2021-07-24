@@ -7,7 +7,7 @@
 .nav-bar{
   background-color: var(--secondary-color);
   text-align: center;
-  font-size: 6vmin;
+  font-size: 4.5vmin;
   padding: 1rem 0;
   border-bottom-left-radius: 3rem;
 }
@@ -23,10 +23,22 @@
   align-items: flex-start;
 }
 
-.header-image{
+.header-conatiner{
+  padding-top: 1rem;
   max-width: 80vmin;
+}
+
+.header-heading{
   margin: 1rem;
-  margin-top: 10vmin;
+  margin-bottom: 0;
+  text-align: center;
+  font-weight: 500;
+}
+
+.header-image{
+  width: 100%;
+  margin: 1rem;
+  margin-top: 5vmin;
 }
 
 .header-content{
@@ -62,7 +74,7 @@
 
 .search-results{
   padding: 1rem 0;
-  height: 70vh;
+  height: 60vh;
   overflow-y: scroll;
 }
 

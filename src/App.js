@@ -4,7 +4,7 @@ import headerImg from "./header-image.svg";
 import data from "./data";
 
 function App() {
-  const [bookData, setBookData] = useState([...data["Sci-Fi"]]);
+  const [bookData, setBookData] = useState([...data["Fantasy"]]);
 
   const clickHandler = (e) => {
     setBookData([...data[e.target.innerText]]);
@@ -16,17 +16,20 @@ function App() {
         <h1>Bibliophile's Corner</h1>
       </nav>
       <div className="container">
-        <img src={headerImg} className="header-image" alt="bibliophile"></img>
+        <div className="header-conatiner">
+          <h4 className="header-heading">Here are some of the best books from Fantasy, Sci-Fi and Thriller genre, check them out and do read!</h4>
+          <img src={headerImg} className="header-image" alt="bibliophile"></img>
+        </div>
         <div className="header-content">
           <div className="search-options">
             <button className="search-button" onClick={clickHandler}>
-              Sci-Fi
+              Fantasy
             </button>
             <button className="search-button" onClick={clickHandler}>
               Thriller
             </button>
             <button className="search-button" onClick={clickHandler}>
-              Fantasy
+              Sci-Fi
             </button>
           </div>
           <div className="search-results">

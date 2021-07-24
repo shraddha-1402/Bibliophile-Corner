@@ -1,85 +1,99 @@
 {
-  "Sci-Fi": [
+  "Fantasy": [
     {
       "name": "The Lord Of The Rings",
       "author": "J.R.R. Tolkien",
-      "description": "One of the greatest trilogies of all time and certainly the measuring stick to which",
+      "description": "One of the greatest trilogies of all time and a must read for all fantasy lovers",
       "image": "./images/LOTR.jpg",
       "rating": 5
     },
     {
-      "name": "Book1",
-      "author": "Jane austen",
+      "name": "Percy Jackson",
+      "author": "Rick Riordan",
       "description": "loream ipaskdfdsh",
-      "image": "some url",
+      "image": "./images/PJ.jpg",
       "rating": 5
     },
     {
-      "name": "Book1",
-      "author": "Jane austen",
+      "name": "Chronicals Of Narnia",
+      "author": "C. S. Lewis",
       "description": "loream ipaskdfdsh",
-      "image": "some url",
-      "rating": 5
+      "image": "./images/TCON.jpg",
+      "rating": 4
     },
     {
-      "name": "Book1",
-      "author": "Jane austen",
+      "name": "Game Of Thrones",
+      "author": "George R. R. Martin",
       "description": "loream ipaskdfdsh",
-      "image": "some url",
-      "rating": 5
+      "image": "./images/GOT.jpg",
+      "rating": 4
     },
     {
-      "name": "Book1",
-      "author": "Jane austen",
+      "name": "Harry Potter",
+      "author": "J. K. Rowling",
       "description": "loream ipaskdfdsh",
-      "image": "some url",
-      "rating": 5
+      "image": "./images/HP.jpeg",
+      "rating": 4
     }
   ],
   "Thriller": [
     {
-      "name": "Book1",
+      "name": "The Da Vinci Code",
       "author": "Dan Brown",
       "description": "loream ipaskdfdsh",
-      "image": "some url",
+      "image": "./images/TDVC.jpg",
       "rating": 5
     },
     {
-      "name": "Book1",
-      "author": "Dan Brown",
+      "name": "Gone Girl",
+      "author": "Gillian Flynn",
       "description": "loream ipaskdfdsh",
-      "image": "some url",
-      "rating": 5
+      "image": "./images/GG.jpg",
+      "rating": 4
     },
     {
-      "name": "Book1",
-      "author": "Dan Brown",
+      "name": "The Girl With The Dragon Tattoo",
+      "author": "Stieg Larsson",
       "description": "loream ipaskdfdsh",
-      "image": "some url",
-      "rating": 5
+      "image": "./images/TGWTDT.jpg",
+      "rating": 4
+    },
+    {
+      "name": "Misery",
+      "author": "Stephen King",
+      "description": "loream ipaskdfdsh",
+      "image": "./images/MBST.jpg",
+      "rating": 4
     }
   ],
-  "Fantasy": [
+  "Sci-Fi": [
     {
-      "name": "Book1",
-      "author": "J K Rowling",
+      "name": "The Martian",
+      "author": "Andy Weir",
       "description": "loream ipaskdfdsh",
-      "image": "some url",
+      "image": "./images/TM.jpg",
       "rating": 5
     },
     {
-      "name": "Book1",
-      "author": "J K Rowling",
+      "name": "Dune",
+      "author": "Frank Herbert",
       "description": "loream ipaskdfdsh",
-      "image": "some url",
-      "rating": 5
+      "image": "./images/Dune.jpg",
+      "rating": 4
     },
     {
-      "name": "Book1",
-      "author": "J K Rowling",
+      "name": "Contact",
+      "author": "Carl Sagan",
       "description": "loream ipaskdfdsh",
-      "image": "some url",
-      "rating": 5
+      "image": "./images/Contact.jpeg",
+      "rating": 4
+    },
+    {
+      "name": "A Wrinkle in Time",
+      "author": "Madeleine L'engle",
+      "description": "loream ipaskdfdsh",
+      "image": "./images/AWIT.jpg",
+      "rating": 4
     }
   ]
 }
