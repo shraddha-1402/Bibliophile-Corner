@@ -131,9 +131,12 @@
 
 .link{
   text-decoration: none;
+  color: var(--primary-color);
+}
+
+.footer-link{
   margin: 0 1rem;
   font-size: 1.5rem;
-  color: var(--primary-color);
 }
 
 footer{
