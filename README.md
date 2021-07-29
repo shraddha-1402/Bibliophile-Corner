@@ -1,10 +1,19 @@
 # BIBLIOPHILE'S CORNER
 
-**A books suggestion app according to three different genres for all the Bibliophiles out there!**
+**Are you looking for books suggestions to read next or want to start reading some good books? If yes then this app is for YOU!**
 
-**Head to [Bibliophile's Corner](https://bibliophils-corner.netlify.app/) to choose the book you wanna read next or start your reading journey with!**
+**This is a books suggestion app having three different genres for all the Bibliophiles out there!**
 
-HAPPY READING❤️❤️
+## How this app works
+
+* There are three genres, click on the genre you want to explore
+* It will list all the best books in the category
+* The description of books also have the Goodreads rating
+* You can click on the card to read the book in Goodreads app
+
+
+**Head to [Bibliophile's Corner](https://bibliophils-corner.netlify.app/) to choose the book you wanna read!**
+
 
 ## Tech-Stack
 ![React logo](./public/images/logo/react.png) ![CSS logo](./public/images/logo/css3.png) ![JavaScript logo](./public/images/logo/javascript.png)
