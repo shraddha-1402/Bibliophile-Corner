@@ -5,35 +5,40 @@
       "author": "J.R.R. Tolkien",
       "description": "One of the greatest trilogies of all time and a must read for all fantasy lovers",
       "image": "./images/LOTR.jpg",
-      "rating": 5
+      "rating": 5,
+      "link": "https://goodreads.com/book/show/33.The_Lord_of_the_Rings"
     },
     {
       "name": "Percy Jackson",
       "author": "Rick Riordan",
       "description": "loream ipaskdfdsh",
       "image": "./images/PJ.jpg",
-      "rating": 5
+      "rating": 5,
+      "link": "https://goodreads.com/book/show/28187.The_Lightning_Thief"
     },
     {
       "name": "Chronicals Of Narnia",
       "author": "C. S. Lewis",
       "description": "loream ipaskdfdsh",
       "image": "./images/TCON.jpg",
-      "rating": 4
+      "rating": 4,
+      "link": "https://goodreads.com/book/show/11127.The_Chronicles_of_Narnia"
     },
     {
       "name": "Game Of Thrones",
       "author": "George R. R. Martin",
       "description": "loream ipaskdfdsh",
       "image": "./images/GOT.jpg",
-      "rating": 4
+      "rating": 4,
+      "link": "https://goodreads.com/book/show/13496.A_Game_of_Thrones"
     },
     {
       "name": "Harry Potter",
       "author": "J. K. Rowling",
       "description": "loream ipaskdfdsh",
       "image": "./images/HP.jpeg",
-      "rating": 4
+      "rating": 4,
+      "link": "https://goodreads.com/book/show/3.Harry_Potter_and_the_Sorcerer_s_Stone"
     }
   ],
   "Thriller": [
@@ -42,28 +47,32 @@
       "author": "Dan Brown",
       "description": "loream ipaskdfdsh",
       "image": "./images/TDVC.jpg",
-      "rating": 5
+      "rating": 5,
+      "link": "https://goodreads.com/book/show/968.The_Da_Vinci_Code"
     },
     {
       "name": "Gone Girl",
       "author": "Gillian Flynn",
       "description": "loream ipaskdfdsh",
       "image": "./images/GG.jpg",
-      "rating": 4
+      "rating": 4,
+      "link": "https://goodreads.com/book/show/19288043-gone-girl"
     },
     {
       "name": "The Girl With The Dragon Tattoo",
       "author": "Stieg Larsson",
       "description": "loream ipaskdfdsh",
       "image": "./images/TGWTDT.jpg",
-      "rating": 4
+      "rating": 4,
+      "link": "https://goodreads.com/book/show/2429135.The_Girl_with_the_Dragon_Tattoo"
     },
     {
       "name": "Misery",
       "author": "Stephen King",
       "description": "loream ipaskdfdsh",
       "image": "./images/MBST.jpg",
-      "rating": 4
+      "rating": 4,
+      "link": "https://goodreads.com/book/show/10614.Misery"
     }
   ],
   "Sci-Fi": [
@@ -72,28 +81,32 @@
       "author": "Andy Weir",
       "description": "loream ipaskdfdsh",
       "image": "./images/TM.jpg",
-      "rating": 5
+      "rating": 5,
+      "link": "https://goodreads.com/book/show/18007564-the-martian"
     },
     {
       "name": "Dune",
       "author": "Frank Herbert",
       "description": "loream ipaskdfdsh",
       "image": "./images/Dune.jpg",
-      "rating": 4
+      "rating": 4,
+      "link": "https://goodreads.com/book/show/44767458-dune"
     },
     {
       "name": "Contact",
       "author": "Carl Sagan",
       "description": "loream ipaskdfdsh",
       "image": "./images/Contact.jpeg",
-      "rating": 4
+      "rating": 4,
+      "link": "https://goodreads.com/book/show/61666.Contact"
     },
     {
       "name": "A Wrinkle in Time",
       "author": "Madeleine L'engle",
       "description": "loream ipaskdfdsh",
       "image": "./images/AWIT.jpg",
-      "rating": 4
+      "rating": 4,
+      "link": "https://goodreads.com/book/show/33574273-a-wrinkle-in-time"
     }
   ]
 }
